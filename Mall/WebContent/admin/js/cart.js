@@ -1,0 +1,1 @@
+function check(){if(document.myform.usersid.value==''){alert('请输入用户'); return false; }if(document.myform.goodsid.value==''){alert('请输入商品'); return false; }if(document.myform.num.value==''){alert('请输入数量'); return false; }if(document.myform.addtime.value==''){alert('请输入加入日期'); return false; }}
